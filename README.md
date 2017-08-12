@@ -1,2 +1,2 @@
 # myFTP
-Teck2 EPITECH
+My Client + Server FTP multi-client in C Edit
